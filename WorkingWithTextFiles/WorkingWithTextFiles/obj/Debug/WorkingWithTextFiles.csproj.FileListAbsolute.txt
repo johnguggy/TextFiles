@@ -1,0 +1,7 @@
+C:\CC6\Labs\WorkingWithTextFiles\WorkingWithTextFiles\obj\Debug\WorkingWithTextFiles.csprojAssemblyReference.cache
+C:\CC6\Labs\WorkingWithTextFiles\WorkingWithTextFiles\obj\Debug\WorkingWithTextFiles.csproj.CoreCompileInputs.cache
+C:\CC6\Labs\WorkingWithTextFiles\WorkingWithTextFiles\bin\Debug\WorkingWithTextFiles.exe.config
+C:\CC6\Labs\WorkingWithTextFiles\WorkingWithTextFiles\bin\Debug\WorkingWithTextFiles.exe
+C:\CC6\Labs\WorkingWithTextFiles\WorkingWithTextFiles\bin\Debug\WorkingWithTextFiles.pdb
+C:\CC6\Labs\WorkingWithTextFiles\WorkingWithTextFiles\obj\Debug\WorkingWithTextFiles.exe
+C:\CC6\Labs\WorkingWithTextFiles\WorkingWithTextFiles\obj\Debug\WorkingWithTextFiles.pdb
